@@ -28,5 +28,5 @@ Connect the daly bms to the raspberry pi via uart (*Refer to picture below*)
 |Data 2|UART_RX2 – pin 6|TXT – pin 8|
 
 ### Pinout
-![Daly BMS Pinout](res\daly_pinout.jpg)
-![Pi Pinout](res\pi_pinout.jpg)
+![Daly BMS Pinout](res/daly_pinout.jpg)
+![Pi Pinout](res/pi_pinout.jpg)
